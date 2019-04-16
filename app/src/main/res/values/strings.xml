@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutGoGether</string>
+
+    <string name="slid1_title">aa</string>
+    <string name="slid1_desc">You will not be alone</string>
+    <string name="slid1_des">aa</string>
+
+    <string name="slid2_title">bb</string>
+    <string name="slid2_desc">Save money</string>
+    <string name="slid2_des">bb</string>
+
+
+    <string name="slid3_title">cc</string>
+    <string name="slid3_desc">Make new friendships</string>
+    <string name="slid3_deesc">and groups</string>
+    <string name="slid3_des">cc</string>
+
+    <string name="my_preference_key"></string>
+    <string name="my_preference"></string>
+</resources>
